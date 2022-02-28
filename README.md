@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rashid.
-- 👋 Expert in Data Structues and algorithms.
+- :computer: Expert in Data Structues and algorithms.
 - 👀 I’m interested in Machine Learning, AI, Web Development, and Android Development.
 - 🌱 I’m currently learning Web Development, and Android Development.
 - 📫 How to reach me on [Facebook](https://www.facebook.com/profile.php?id=100008638000541) and on [Twitter](https://twitter.com/MalikRa50065964).

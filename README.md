@@ -14,24 +14,6 @@ My recent work focuses on understanding how compute-heavy workloads map onto har
 * **AI/ML Systems**
 * **Performance Engineering**
 
-### What I'm Building
-
-I'm currently building a **C++ Vulkan-based Llama-style inference engine from scratch**, implementing the GPU execution pipeline myself rather than relying on an existing inference runtime.
-
-The project includes:
-
-* Vulkan compute pipelines and SPIR-V shaders
-* GPU buffer and memory management
-* Matrix multiplication
-* RMSNorm
-* RoPE
-* Self-attention
-* KV cache
-* SwiGLU / FFN
-* Logits computation
-* Token sampling
-* Autoregressive generation
-
 ### Other Interests
 
 I'm interested in problems where software meets hardware — particularly:
